@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM alpine:latest
 
 EXPOSE 9050
 
